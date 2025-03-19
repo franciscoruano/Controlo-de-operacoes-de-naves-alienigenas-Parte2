@@ -1,0 +1,12 @@
+oi98 init (0,10,0) 1
+oi98 initspace (0,0,0) (50,50,50)
+oi98 move (30,0,50)
+oi98 move (0,10,0)
+oi98 acao desligar
+
+AS543 initspace (0,0,0) (10,10,100)
+AS543 acao ligar
+AS543 move (5,0,0)
+AS543 move (0,10,0)
+
+EE123 move (500,0,0)
